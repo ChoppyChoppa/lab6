@@ -7,7 +7,7 @@ int main(){
     int n;
     
     while (n != 0){
-        cout << "Enter the integer: ";
+        cout << "Enter an integer: ";
         cin >> n;
         if (n % 2 == 0){
             Even++;
