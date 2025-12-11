@@ -4,7 +4,7 @@ using namespace std;
 int main(){
     int Even = 0;
     int Odd = 0;
-    int n;
+    int n = 1;
     
     while (n != 0){
         cout << "Enter an integer: ";
